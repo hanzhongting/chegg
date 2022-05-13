@@ -1,0 +1,5 @@
+git+https://github.com/Pycord-Development/pycord@71c0711e299a1d061c6edb5994777ff19644873c
+validators
+requests
+beautifulsoup4
+git+https://github.com/DouglasTaylorSupportGroup/cheinstein.py@bot-master
